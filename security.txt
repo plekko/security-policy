@@ -1,0 +1,4 @@
+Contact: mailto:contact@plekko.com
+Preferred-Languages: en
+Canonical: https://github.com/plekko/security-policy/blob/main/security.txt
+Policy: https://github.com/plekko/security-policy/blob/main/SECURITY.md
